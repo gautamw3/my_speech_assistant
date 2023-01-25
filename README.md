@@ -21,6 +21,6 @@ Later on, install all the Python dependencies by running the command:
 
 Run the program by executing the command:
 
-	python main.py
+	python assistant.py
 
 That's it.
